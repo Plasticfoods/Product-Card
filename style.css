@@ -139,11 +139,14 @@ button {
     gap: 1rem;
 }
 
-.btn-cart img {
-    margin-top: 5px;
-    display: flex;
+.btn-icon {
+    margin-right: -10px;
 }
 
-.btn-icon {
-    margin-bottom: .2rem;
+.btn-cart:hover {
+    cursor: pointer;
+    background-color: hsl(96, 20%, 20%);
+}
+.btn-text {
+    cursor: pointer;
 }
