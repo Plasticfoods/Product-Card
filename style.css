@@ -141,4 +141,9 @@ button {
 
 .btn-cart img {
     margin-top: 5px;
+    display: flex;
+}
+
+.btn-icon {
+    margin-bottom: .2rem;
 }
